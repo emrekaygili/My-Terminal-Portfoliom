@@ -33,8 +33,6 @@ Tools used:
 
 ### Use commands only from above list
 
-### This is how it moves
-
 ![shellfolio](https://github.com/emrekaygili/emrekaygili.github.io/blob/main/Screenshots/image.gif)
 
 ### Note: All commands are case insensitive

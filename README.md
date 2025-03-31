@@ -2,6 +2,7 @@
 
 ## Terminal style Portfolio website
 
+##Project View = https://emrekaygili.github.io/My-Terminal-Portfoliom/
 Written using:
 
 - HTML5 (No Templates or Boilerplate used)
